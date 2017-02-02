@@ -5,12 +5,15 @@ volunteer for presenting on the following Monday.
 
 Feedback is always welcome! :-) Good luck
 
+## Note!
+We talked about a chat server in the class. The chat server **will be used next week**, not this week. So don't worry about it for now!  
+
 ## Tasks
 1. At least three exercises from [Threads exercise 1](https://github.com/CphBusCosSem3/week1-concurrency/tree/master/exercises/ex1); 1 studypoint
 2. At least three exercises from [Threads exercise 2](https://github.com/CphBusCosSem3/week1-concurrency/tree/master/exercises/ex2); 1 studypoint
 3. Exercise 3 from [Network exercise 1](https://github.com/CphBusCosSem3/week1-concurrency/tree/master/exercises/ex3); 1 studypoint
 4. [Exam preparation exercise: Threads](https://github.com/CphBusCosSem3/Exercises/tree/master/SP/SP1/Exam-preparation-threads.pdf); 1 studypoint 
-5. [Exam preparation exercise: Network](https://github.com/CphBusCosSem3/Exercises/blob/master/SP/SP1/Exam-preparation-threads.pdf); 1 studypoint 
+5. [Exam preparation exercise: Network](https://github.com/CphBusCosSem3/Exercises/blob/master/SP/SP1/Exam-preparation-network.pdf); 1 studypoint 
 
 ## Hand-in
 You can either hand in via mail or by showing your solution to the instructors.
