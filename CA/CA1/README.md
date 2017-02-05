@@ -100,7 +100,8 @@ allowed to enter the exam__!
 | For the demonstration of the server on day 2 | Up to 3 points |
 | The quality of your code and coverage of your tests | Up to 4 points |
 | For the demonstartion of your system in day 4 and the quality of the documentation | Up to 4 points |
-| For giving us constructive feedback on flow 1 (including pull requests) | Up to 5 points |
+| For giving us constructive feedback on flow 1 | Up to 3 points |
+| **Extra** For helping to improve the course material by pointing out errors and pull requests | Up to 2 points |
 
 ## Bonus study points
 While you develop this system you will acquire knowledge about many small details, which might have taken
@@ -108,8 +109,8 @@ you a lot of time to figure out.
 Try using this knowledge to help each other. If you have a problem, ask out in the class if anyone can help you
 (and respect if the reply is _no_ or _wait_).
 
-**Remember** that you can earn up to **5** study points for giving us constructive feedback on the course
-and helping us improve the course material. 
+**Remember** that you can earn up to **2** study points for giving helping us improve the course material. This is
+additional to the 40 points of the module. So you can actually get more than a 100%.
 
 ## If you are lost
 If you are lost on what to do, try spending at least 15 minutes trying to find the answer for yourself. First
