@@ -3,10 +3,8 @@
 For this CA you must write a simple TCP chat service (server and client) and deploy it on a globally
 accessible server.
 
-Additionally, the server must be secured using a reverse Nginx proxy.
-
 The CA must also expose a simple website where the chat client can be downloaded and where we can
-find all required documentation (see below).
+find all required documentation (see below). This website must be secured with HTTPS.
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
@@ -49,12 +47,16 @@ this must be deployed on Digital Ocean.
 In the documentation we need to know who wrote what because we need to distribute study points to the individual
 members in the group.
 
-## The reverse proxy
-To secure your application we want you to deploy a reverse proxy which uses a HTTPS certificate. One way
-of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
+### The reverse proxy
+The web server must be secured with HTTPS using a reverse proxy (Nginx). We want you to deploy the proxy in front of the
+web server so it can verify the traffic and relay the connection to your actual web server, deployed by Tomcat. 
 
-Your reverse proxy should handle incoming connections to the web server on port 443 (HTTPS). Connections to port 80
-(regular HTTPS) should receive a ``301 Moved Permanently`` HTTP status message, and be forwarded to port 443.
+So your reverse proxy should handle incoming connections to the web server on port 443 (HTTPS) and forward them
+to Tomcat. Connections to port 80 (regular HTTP) is unsafe and should receive a ``301 Moved Permanently`` HTTP
+status message, along with a forward to port 443.
+
+For this task you will need a certificate to make sure you are who you say you are. 
+One way of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
 
 ## Test requirements
 Your chat server, chat client and tomcat system should be tested
