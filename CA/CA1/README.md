@@ -92,6 +92,8 @@ day 2 you should demonstrate your server to us!
 You can earn a maximum of 40 study points in this period. Remember that you __need at least 80% to be
 allowed to enter the exam__!
 
+| Activity | Study points reward |
+| ---- | ---- |
 | Participation in the class | 11 points |
 | Friday study point exercises | Up to 10 points |
 | For your contribution to the code and documentation | Up to 5 points |
