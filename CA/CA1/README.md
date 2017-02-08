@@ -3,10 +3,8 @@
 For this CA you must write a simple TCP chat service (server and client) and deploy it on a globally
 accessible server.
 
-Additionally, the server must be secured using a reverse Nginx proxy.
-
 The CA must also expose a simple website where the chat client can be downloaded and where we can
-find all required documentation (see below).
+find all required documentation (see below). This website must be secured with HTTPS.
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
@@ -49,12 +47,16 @@ this must be deployed on Digital Ocean.
 In the documentation we need to know who wrote what because we need to distribute study points to the individual
 members in the group.
 
-## The reverse proxy
-To secure your application we want you to deploy a reverse proxy which uses a HTTPS certificate. One way
-of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
+### The reverse proxy
+The web server must be secured with HTTPS using a reverse proxy (Nginx). We want you to deploy the proxy in front of the
+web server so it can verify the traffic and relay the connection to your actual web server, deployed by Tomcat. 
 
-Your reverse proxy should handle incoming connections to the web server on port 443 (HTTPS). Connections to port 80
-(regular HTTPS) should receive a ``301 Moved Permanently`` HTTP status message, and be forwarded to port 443.
+So your reverse proxy should handle incoming connections to the web server on port 443 (HTTPS) and forward them
+to Tomcat. Connections to port 80 (regular HTTP) is unsafe and should receive a ``301 Moved Permanently`` HTTP
+status message, along with a forward to port 443.
+
+For this task you will need a certificate to make sure you are who you say you are. 
+One way of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
 
 ## Test requirements
 Your chat server, chat client and tomcat system should be tested
@@ -92,13 +94,16 @@ day 2 you should demonstrate your server to us!
 You can earn a maximum of 40 study points in this period. Remember that you __need at least 80% to be
 allowed to enter the exam__!
 
+| Activity | Study points reward |
+| ---- | ---- |
 | Participation in the class | 11 points |
 | Friday study point exercises | Up to 10 points |
 | For your contribution to the code and documentation | Up to 5 points |
 | For the demonstration of the server on day 2 | Up to 3 points |
 | The quality of your code and coverage of your tests | Up to 4 points |
 | For the demonstartion of your system in day 4 and the quality of the documentation | Up to 4 points |
-| For giving us constructive feedback on flow 1 (including pull requests) | Up to 5 points |
+| For giving us constructive feedback on flow 1 | Up to 3 points |
+| **Extra** For helping to improve the course material by pointing out errors and pull requests | Up to 2 points |
 
 ## Bonus study points
 While you develop this system you will acquire knowledge about many small details, which might have taken
@@ -106,8 +111,8 @@ you a lot of time to figure out.
 Try using this knowledge to help each other. If you have a problem, ask out in the class if anyone can help you
 (and respect if the reply is _no_ or _wait_).
 
-**Remember** that you can earn up to **5** study points for giving us constructive feedback on the course
-and helping us improve the course material. 
+**Remember** that you can earn up to **2** study points for giving helping us improve the course material. This is
+additional to the 40 points of the module. So you can actually get more than a 100%.
 
 ## If you are lost
 If you are lost on what to do, try spending at least 15 minutes trying to find the answer for yourself. First
