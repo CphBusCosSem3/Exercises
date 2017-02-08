@@ -6,7 +6,7 @@ volunteer for presenting on the following Monday.
 Feedback is always welcome! :-) Good luck
 
 ## Note!
-We talked about a chat server in the class. The chat server **will be used next week**, not this week. So don't worry about it for now!  
+This assignment should be done individually. The CA's will be handled in groups.
 
 ## Tasks
 1. At least two exercises from [Network exercise 1](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex1); 1 studypoint
