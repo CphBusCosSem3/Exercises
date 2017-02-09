@@ -11,7 +11,7 @@ This assignment should be done individually. The CA's will be handled in groups.
 ## Tasks
 1. At least two exercises from [Network exercise 1](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex1); 1 studypoint
 2. At least two exercises from [Network exercise 2](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex2); 1 studypoint
-3. Exercise 1 and 2 from the [Virtualisation exercise](https://github.com/CphBusCosSem3/week1-concurrency/tree/master/exercises/ex3); 1 studypoint
+3. Exercise 1 and 2 from the [Virtualisation exercise](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex3); 1 studypoint
 4. [Exam preparation exercise: Threads-2](https://github.com/CphBusCosSem3/Exercises/tree/master/SP/SP2/Exam-preparation-threads-2.pdf); 1 studypoint 
 5. [Exam preparation exercise: Server](https://github.com/CphBusCosSem3/Exercises/blob/master/SP/SP2/Exam-preparation-server.pdf); 1 studypoint 
 
