@@ -23,7 +23,7 @@ Apart from the approval of your hand-in, this will give you attendance points as
 
 If you hand in via mail, you can get the additional "attendance point" if your score is THREE our above
 and you have completed either 4 or 5. The mail should be sent to ``iwantstudypoints@gmail.com``, have a
-topic called `Study point exercises 1`` and _must_ include either a link to a git repository (GitHub,
+topic called `Study point exercises 2`` and _must_ include either a link to a git repository (GitHub,
 Bitbucket or whatever) containing all the code for the exercises.
 Please make sure that we can access the repository before you hand it in.
 
