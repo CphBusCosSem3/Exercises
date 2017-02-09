@@ -6,7 +6,7 @@ accessible server.
 The CA must also expose a simple website where the chat client can be downloaded and where we can
 find all required documentation (see below). This website must be secured with HTTPS.
 
-** The assignment must be handed in by Saturday 18th of February at 23:59!**
+**The assignment must be handed in by Saturday 18th of February at 23:59!**
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
@@ -71,9 +71,10 @@ the right commands.
 ``HTML`` for each REST entry point.
 
 ## What to demonstrate and hand in
-** The assignment must be handed in by Saturday 18th of February at 23:59!** Hand-in should be sent to ``iwantstudypoints@gmail.com`` and contain a link to your documentation. 
+**The assignment must be handed in by Saturday 18th of February at 23:59!** Hand-in should be sent to ``iwantstudypoints@gmail.com`` and contain a link to your documentation. 
 
 ### Requirements
+
 * The chat server must be demonstrated against your own client + a client from at least one other team. The server
 must be deployed on Digital Ocean.
 * The chat client must be demonstrated against your own server + a server from at least one other team
