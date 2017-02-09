@@ -6,6 +6,8 @@ accessible server.
 The CA must also expose a simple website where the chat client can be downloaded and where we can
 find all required documentation (see below). This website must be secured with HTTPS.
 
+** The assignment must be handed in by Saturday 18th of February at 23:59!**
+
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
 in the class on the 13th of February and can be found here: --LINK--
@@ -68,7 +70,10 @@ the right commands.
 * For the web server you need to spin up a Tomcat server and test that you are getting the expected
 ``HTML`` for each REST entry point.
 
-## Wnat to demonstrate and hand in
+## What to demonstrate and hand in
+** The assignment must be handed in by Saturday 18th of February at 23:59!** Hand-in should be sent to ``iwantstudypoints@gmail.com`` and contain a link to your documentation. 
+
+### Requirements
 * The chat server must be demonstrated against your own client + a client from at least one other team. The server
 must be deployed on Digital Ocean.
 * The chat client must be demonstrated against your own server + a server from at least one other team
@@ -82,13 +87,16 @@ published on your Digital Ocean server
     * Your opinions about good or bad things about this flow. What was good and what was bad?
     * Your thoughts on what you did different from your last semester to better learn the course material we gave you
 
+Please make sure to enclude a link to the git repository for the chat server, web server and client code.
+
 ## How to spend your four days
 You are supposed to develop the system over 2 consecutive two-day mini sprints as sketched below:
 
 * Day 1-2: Concentrate on developing a chat server which can handle at least two clients. Before the end of
 day 2 you should demonstrate your server to us!
-* Day 3: Concentrate on writing your Tomcat server and Nginx proxy
-* Day 4: Finish the system and deploy it to your Digital Ocean server
+* Day 3: Concentrate on writing your client and make sure you can connect to your server with multiple clients.
+* Day 4: Re-visit your Tomcat server and Nginx proxy and setup the reverse proxy from Nginx to Tomcat.
+Try to get to a point where you can deploy your chat server to Digital Ocean. 
 
 ## Study points for this flow
 You can earn a maximum of 40 study points in this period. Remember that you __need at least 80% to be
