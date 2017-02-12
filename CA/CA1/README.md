@@ -10,10 +10,10 @@ find all required documentation (see below). This website must be secured with H
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
-in the class on the 13th of February and can be found here: --LINK--
+in the class on the 13th of February and can be found here: [https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA1/protocol.md](https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA1/protocol.md)
 
-Following the protocol is the most important part of this assignment. If your server does not obey this protocol,
-it will not be accepted as a valid solution!
+Following and implementing this protocol is the most important part of this assignment.
+If your server does not obey this protocol, it will not be accepted as a valid solution!
 
 ## The server
 The server must be written in Java and use a simple TCP connection to receive and send messages. The server
