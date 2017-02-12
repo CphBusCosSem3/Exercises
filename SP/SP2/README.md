@@ -6,14 +6,14 @@ volunteer for presenting on the following Monday.
 Feedback is always welcome! :-) Good luck
 
 ## Note!
-We talked about a chat server in the class. The chat server **will be used next week**, not this week. So don't worry about it for now!  
+This assignment should be done individually. The CA's will be handled in groups.
 
 ## Tasks
-1. At least two exercises from [Network exercise 1](https://github.com/CphBusCosSem3/week2-network/tree/master/exercises/ex1); 1 studypoint
-2. At least two exercises from [Network exercise 2](https://github.com/CphBusCosSem3/week2-network/tree/master/exercises/ex2); 1 studypoint
-3. Exercise 1 and 2 from the [Virtualisation exercise](https://github.com/CphBusCosSem3/week1-concurrency/tree/master/exercises/ex3); 1 studypoint
+1. At least two exercises from [Network exercise 1](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex1); 1 studypoint
+2. At least two exercises from [Network exercise 2](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex2); 1 studypoint
+3. Exercise 1 and 2 from the [Virtualisation exercise](https://github.com/CphBusCosSem3/week2-network/tree/master/ex/ex4); 1 studypoint
 4. [Exam preparation exercise: Threads-2](https://github.com/CphBusCosSem3/Exercises/tree/master/SP/SP2/Exam-preparation-threads-2.pdf); 1 studypoint 
-5. [Exam preparation exercise: Server](https://github.com/CphBusCosSem3/Exercises/blob/master/SP/SP2/Exam-preparation-server.md); 1 studypoint 
+5. [Exam preparation exercise: Server](https://github.com/CphBusCosSem3/Exercises/blob/master/SP/SP2/Exam-preparation-server.pdf); 1 studypoint 
 
 ## Hand-in
 You can either hand in via mail or by showing your solution to the instructors.
@@ -23,7 +23,7 @@ Apart from the approval of your hand-in, this will give you attendance points as
 
 If you hand in via mail, you can get the additional "attendance point" if your score is THREE our above
 and you have completed either 4 or 5. The mail should be sent to ``iwantstudypoints@gmail.com``, have a
-topic called `Study point exercises 1`` and _must_ include either a link to a git repository (GitHub,
+topic called `Study point exercises 2`` and _must_ include either a link to a git repository (GitHub,
 Bitbucket or whatever) containing all the code for the exercises.
 Please make sure that we can access the repository before you hand it in.
 
