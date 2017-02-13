@@ -6,7 +6,11 @@ accessible server.
 The CA must also expose a simple website where the chat client can be downloaded and where we can
 find all required documentation (see below). This website must be secured with HTTPS.
 
-**The assignment must be handed in by Sunday 19th of February at 23:59!**
+## Deadlines
+
+1. Present your progress to us on **Wednesday the 15th** between 8:30 and 12:00.
+2. Test your client against the server from another team, and your server against a client from another team at the last on **Friday the 17th**. This has to go in the documentation.
+3. **The assignment must be handed in by Sunday 19th of February at 23:59!**
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
@@ -39,7 +43,7 @@ messages and send new ones. As inspiration, your layout could look like the one 
 Apart from the server and client, we require you to include four things:
 
 1. A main page (``index.html``) with links to the below
-2. A link to your documentation, written in HTML. The documentation must include 1) how to use the system and 2) **credits to who in the group wrote what**.
+2. A link to your documentation, written in HTML
 3. A link to the source code (on a git portal)
 4. A link to a downloadable client as a ``.jar`` file.
 
@@ -78,16 +82,24 @@ the right commands.
 
 ### Requirements
 
+#### Project requirements
+
 * The chat server must be demonstrated against your own client + a client from at least one other team. The server
 must be deployed on Digital Ocean.
 * The chat client must be demonstrated against your own server + a server from at least one other team
 * The code must be available on a git server (such as GitHub or Bitbucket)
-* The code, documentation and runnable client (as a ``.jar`` file) must be available on your website
-published on your Digital Ocean server
-* You must include documentation available via your web server containing:
+* The code, documentation and runnable client (as a ``.jar`` file) must be available on your website, as published on your Digital Ocean server
+* Your project must be a runnable Maven project (with no compile errors :-) so we can run your tests
+
+#### Documentation requirements
+You must include documentation available via your web server containing:
+    * Documentation for your tests againts another teams client and server including a description on what went well and what did not
     * A description on how you designed the system
+    * A description on how to use the system
     * A section stating who worked on what in your group
-    * A runnable Maven project so we can run your tests
+    
+Apart from that we would love to hear about:
+
     * Your opinions about good or bad things about this flow. What was good and what was bad?
     * Your thoughts on what you did different from your last semester to better learn the course material we gave you
 
