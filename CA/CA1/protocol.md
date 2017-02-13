@@ -21,6 +21,8 @@ These messages should arrive _to_ the server _from_ the client.
 | Login   | Logs in the client. | ``LOGIN#[USERNAME]`` | ``LOGIN#Lars`` |
 | Message | Sends a message to the chat room (``ALL``) or a single client (``USERNAME`` is the **receiver**) | ``MSG#[USER|ALL]#[MESSAGE]`` | ``MSG#Lars#Hej``, ``MSG#ALL#Hej`` |
 
+Logging out a client should be discovered by the server when the TCP connection breaks. That should trigger a ``DELETE`` message sent from the server to all the remaining clients.
+
 ## Server -> Client
 These messages should arrive _to_ the client _from_ the server.
 
