@@ -60,6 +60,9 @@ status message, along with a forward to port 443.
 For this task you will need a certificate to make sure you are who you say you are. 
 One way of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
 
+I wrote a guide to Nginx and what it is all about here: [https://github.com/CphBusCosSem3/week2-network/blob/master/nginx.md](https://github.com/CphBusCosSem3/week2-network/blob/master/nginx.md). It gives some pointers on what we went through in
+the last weeks and hopefully makes it all easier to understand.
+
 ## Test requirements
 Your chat server, chat client and tomcat system should be tested
 
