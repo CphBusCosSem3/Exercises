@@ -10,10 +10,10 @@ find all required documentation (see below). This website must be secured with H
 
 ## The chat protocol
 The chat system must use a protocol to communicate with the client and server. This protocol have been defined
-in the class on the 13th of February and can be found here: --LINK--
+in the class on the 13th of February and can be found here: [https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA1/protocol.md](https://github.com/CphBusCosSem3/Exercises/blob/master/CA/CA1/protocol.md)
 
-Following the protocol is the most important part of this assignment. If your server does not obey this protocol,
-it will not be accepted as a valid solution!
+Following and implementing this protocol is the most important part of this assignment.
+If your server does not obey this protocol, it will not be accepted as a valid solution!
 
 ## The server
 The server must be written in Java and use a simple TCP connection to receive and send messages. The server
@@ -59,6 +59,9 @@ status message, along with a forward to port 443.
 
 For this task you will need a certificate to make sure you are who you say you are. 
 One way of getting such certificate is to use [Let's encrypt](https://letsencrypt.org).
+
+I wrote a guide to Nginx and what it is all about here: [https://github.com/CphBusCosSem3/week2-network/blob/master/nginx.md](https://github.com/CphBusCosSem3/week2-network/blob/master/nginx.md). It gives some pointers on what we went through in
+the last weeks and hopefully makes it all easier to understand.
 
 ## Test requirements
 Your chat server, chat client and tomcat system should be tested
