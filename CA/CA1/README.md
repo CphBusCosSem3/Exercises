@@ -104,7 +104,7 @@ Apart from that we would love to hear about:
 * Your opinions about good or bad things about this flow. What was good and what was bad?
 * Your thoughts on what you did different from your last semester to better learn the course material we gave you
 
-Please make sure to enclude a link to the git repository for the chat server, web server and client code.
+Please make sure to include a link to the git repository for the chat server, web server and client code.
 
 ## How to spend your four days
 You are supposed to develop the system over 2 consecutive two-day mini sprints as sketched below:
