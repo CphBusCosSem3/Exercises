@@ -93,15 +93,16 @@ must be deployed on Digital Ocean.
 
 #### Documentation requirements
 You must include documentation available via your web server containing:
-    * Documentation for your tests againts another teams client and server including a description on what went well and what did not
-    * A description on how you designed the system
-    * A description on how to use the system
-    * A section stating who worked on what in your group
+
+* Documentation for your tests againts another teams client and server including a description on what went well and what did not
+* A description on how you designed the system
+* A description on how to use the system
+* A section stating who worked on what in your group
     
 Apart from that we would love to hear about:
 
-    * Your opinions about good or bad things about this flow. What was good and what was bad?
-    * Your thoughts on what you did different from your last semester to better learn the course material we gave you
+* Your opinions about good or bad things about this flow. What was good and what was bad?
+* Your thoughts on what you did different from your last semester to better learn the course material we gave you
 
 Please make sure to enclude a link to the git repository for the chat server, web server and client code.
 
