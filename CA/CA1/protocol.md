@@ -18,8 +18,8 @@ These messages should arrive _to_ the server _from_ the client.
 
 | Command | Description | Definition | Examples |
 | ------- | ----------- | ---------- | -------- |
-| Login   | Logs in the client. | ``LOGIN#[USERNAME]`` | ``LOGIN#Lars`` |
-| Message | Sends a message to the chat room (``ALL``) or a single client (``USERNAME`` is the **receiver**) | ``MSG#[USER|ALL]#[MESSAGE]`` | ``MSG#Lars#Hej``, ``MSG#ALL#Hej`` |
+| Login   | Logs in the client by adding it to the list of participants in the chat room | ``LOGIN#[USERNAME]`` | ``LOGIN#Lars`` |
+| Message | Sends a message to either everyone the chat room (``ALL``) or a single client (in this case ``USERNAME`` is the **receiver**) | ``MSG#[USER|ALL]#[MESSAGE]`` | ``MSG#Lars#Hej``, ``MSG#ALL#Hej`` |
 
 Logging out a client should be discovered by the server when the TCP connection breaks. That should trigger a ``DELETE`` message sent from the server to all the remaining clients.
 
