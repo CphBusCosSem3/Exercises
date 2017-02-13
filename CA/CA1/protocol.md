@@ -34,4 +34,7 @@ These messages should arrive _to_ the client _from_ the server.
 | Forward message | Forwards message from a client (``USERNAME`` is now the **sender**) | ``MSG#[USERNAME]#[MESSAGE]`` | ``MSG#Jens#Hej`` |
 | Delete user from chat | Tells all clients that a user has disconnected | ``DELETE#[USERNAME]`` | ``DELETE#Lars`` |
 
+## Image from class
+![Protocol drawn in class](protocol.jpg)
+
 <sup>1</sup> Protip: Use a ``PrintWriter`` to output your data to the socket ``OutputStream``. It has the ``println`` method which prints your message in a single line, ending with a newline character (``\n``). Similarly you can use a ``BufferedReader`` in the receiving end which has the ``readLine()`` method, which reads text from the socket until a newline character (``\n``).
