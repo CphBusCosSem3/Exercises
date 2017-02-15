@@ -127,7 +127,7 @@ allowed to enter the exam__!
 | For the demonstration of the server on day 2 | Up to 4 points |
 | The quality of your code and coverage of your tests | Up to 5 points |
 | For the demonstration of your system in day 4 and the quality of the documentation | Up to 5 points |
-| **Extra* For giving us constructive feedback on flow 1 | Up to 3 points |
+| **Extra** For giving us constructive feedback on flow 1 | Up to 3 points |
 | **Extra** For helping to improve the course material by pointing out errors and pull requests | Up to 2 points |
 
 ## Bonus study points
