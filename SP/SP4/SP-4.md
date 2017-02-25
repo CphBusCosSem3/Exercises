@@ -1,4 +1,4 @@
-Study Point Exercise-4-JavaScript, AJAX and Software testing/mocking
+##Study Point Exercise-4-JavaScript, AJAX and Software testing/mocking
 
 You can earn a maximum of 5 points for these exercises as outlined below:
 
