@@ -3,7 +3,8 @@ Study Point Exercise-4-JavaScript, AJAX and Software testing/mocking
 You can earn a maximum of 5 points for these exercises as outlined below:
 
 * 1 point if you have completed most of the exercises from Javascript Day-1 :
-     [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit?usp=sharing)
+
+     [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit?usp=sharing) - 
      [Day-1 JS](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit?usp=sharing)
 * 1 point if you have completed most of the exercises from [Javascript Day-2](https://docs.google.com/document/d/1sJimh38ZDpaJphQ0N98-PEyZ-MOSWphlDDTJJry9ngM/edit?usp=sharing)
 *	1 point if you have completed most of the exercises from DOM (TODO)
