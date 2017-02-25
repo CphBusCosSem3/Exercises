@@ -28,7 +28,7 @@ Topic: Study Point Exercise-4
 
 Content: 
 
-First line should be your full name,
+* First line should be your full name/class,
 * Next line: the link to your Git-hub repository for ex-1
 * Next line: the link to your Git-hub repository for ex-2
 * Next line: the link to your Git-hub repository for ex-3
