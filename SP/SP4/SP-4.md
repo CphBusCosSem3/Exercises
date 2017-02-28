@@ -1,9 +1,10 @@
-Study Point Exercise-4-JavaScript, AJAX and Software testing/mocking
+##Study Point Exercise-4-JavaScript, AJAX and Software testing/mocking
 
 You can earn a maximum of 5 points for these exercises as outlined below:
 
 * 1 point if you have completed most of the exercises from Javascript Day-1 :
-     [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit?usp=sharing)
+
+     [The JavaScript Array](https://docs.google.com/document/d/1Yen8XRTEXOFuHwglEF5IyhTZXJIPnkPt2kVsATwvdsM/edit?usp=sharing) - 
      [Day-1 JS](https://docs.google.com/document/d/1OQM3BDIpTkzgXPKBjXyVYrFvLLLU28eGJIIAxG1U4dc/edit?usp=sharing)
 * 1 point if you have completed most of the exercises from [Javascript Day-2](https://docs.google.com/document/d/1sJimh38ZDpaJphQ0N98-PEyZ-MOSWphlDDTJJry9ngM/edit?usp=sharing)
 *	1 point if you have completed most of the exercises from DOM (TODO)
@@ -16,7 +17,8 @@ As usual, if it's not, you should probably have attended the class to get help ;
 
 ***When to hand in***
 * If you hand in via mail send a mail as described below no later than Friday, *march 4th. 15.00*
-*If you attend the class, you can demo your solution up until *15.45*
+* If you attend the class, you can demo your solution up until *15.45*
+
 
 These deadlines are hard.  The tutors are paid until 16.00 and are not expected to continue after that
 
@@ -27,7 +29,7 @@ Topic: Study Point Exercise-4
 
 Content: 
 
-First line should be your full name,
+* First line should be your full name/class,
 * Next line: the link to your Git-hub repository for ex-1
 * Next line: the link to your Git-hub repository for ex-2
 * Next line: the link to your Git-hub repository for ex-3
