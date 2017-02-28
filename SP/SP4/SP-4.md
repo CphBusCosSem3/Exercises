@@ -15,8 +15,8 @@ If you hand in via mail you can get the additional "attendance point" if your sc
 As usual, if it's not, you should probably have attended the class to get help ;-)
 
 ***When to hand in***
-* If you hand in via mail send a mail as described below no later than Friday, march 4th. 15.00
-*If you attend the class, you can demo your solution up until 15.45
+* If you hand in via mail send a mail as described below no later than Friday, *march 4th. 15.00*
+*If you attend the class, you can demo your solution up until *15.45*
 
 These deadlines are hard.  The tutors are paid until 16.00 and are not expected to continue after that
 
