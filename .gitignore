@@ -1,7 +1,7 @@
 #git ignore
 
 # Word files #
-*.docx
+**/*.docx
 
 /SP/SP6/formcontrols/target/
 /SP/SP7/AngularJquery/target/
