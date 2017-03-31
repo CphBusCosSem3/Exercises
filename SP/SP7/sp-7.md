@@ -5,7 +5,7 @@ You can earn a maximum of 5 points for these exercises as outlined below:
 * Problem-2: 1 point [React, State, Fetch and MobX](https://docs.google.com/document/d/1r9mmyHBYOqEFgNes1aiREIFVLp_EGoQr9EgffCO8spI/edit?usp=sharing)
 * Problem-3: 1 point [Structuring React Applications](https://docs.google.com/document/d/18CNAveFqM5aSi4TACA0tLm32ipL0ONqpkKzL7u0U0Jk/edit?usp=sharing)
 * Problem-4: 1 point [Handling Passwords with the seed](https://docs.google.com/document/d/1SpWbyolAW5G-W2L8l9D-lq1AywvcnNjqfN7vyc7YAjU/edit?usp=sharing)
-* Problem-5: 1 point [React-router with MobX](https://docs.google.com/document/d/1uxKG0nQKd9ZrOOW4JCWrnEgacadAdy3Yq5-Tk3V3eCQ/edit?usp=sharing)
+* Problem-5: 1 point [React-router with MobX](https://docs.google.com/document/d/1uxKG0nQKd9ZrOOW4JCWrnEgacadAdy3Yq5-Tk3V3eCQ/edit?usp=sharing) (This exercise will form the starting point for a new lightweight version of CA-3, get started with this, to get a good start with CA-3)
 
 If you hand in via mail you can get the additional "attendance point" if your score is three or above. As usual, if it's not, you should probably have attended the class to get help ;-)
 
