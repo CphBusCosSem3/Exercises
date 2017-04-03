@@ -1,7 +1,7 @@
 This is the new (non-cars) example of SP6
 
 	
-Complete the steps outlined below, for this [tutorial](https://www.tutorialspoint.com/reactjs/reactjs_best_practices.htm)   
+1) Complete the steps outlined below, for this [tutorial](https://www.tutorialspoint.com/reactjs/reactjs_best_practices.htm)   
        
 Skip the first steps in the tutorial and use a *create-react-app* project to get started.
 For the last part (router) remember to include version-3 of the router, so replace the instructions in the tutorial with this:
